@@ -1,6 +1,7 @@
 
 import os, requests
 
+# Asignacion de variables.
 listado_final = []
 url = "https://reallyfreegeoip.org/json/"
 
